@@ -190,8 +190,8 @@ for_window [class="^.*"] border pixel 0
 
 #window colors
 client.focused		$bg-color		$bg-color		$text-color		#6425b6
-client.unfocused	$inactive-bg-color	$inactive-bg-color	$inactive-text-color	#002B36
-client.focused_inactive	$inactive-bg-color	$inactive-bg-color	$inactive-text-color	#002B36
+client.unfocused	$inactive-bg-color	$inactive-bg-color	$inactive-text-color#002B36
+client.focused_inactive	$inactive-bg-color	$inactive-bg-color	$inactive-text-color#002B36
 client.urgent		$urgent-bg-color	$urgent-bg-color	$text-color		#002B36
 
 #gaps
